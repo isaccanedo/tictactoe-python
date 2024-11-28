@@ -19,7 +19,7 @@ Certifique-se de ter o Python instalado na sua máquina. Este projeto utiliza a 
 
 1. Clone este repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/isaccanedo/tictactoe-python.git
    ```
 
 2. Navegue até o diretório do projeto:
@@ -56,21 +56,7 @@ O projeto é dividido nas seguintes funções principais:
 
 ### Interface inicial
 
-![Tabuleiro inicial](https://via.placeholder.com/300x300.png?text=Tic-Tac-Toe)
-
-### Vitória do jogador
-
-![Vitória do jogador](https://via.placeholder.com/300x300.png?text=You+Win!)
-
-## Melhorias futuras
-
-- Adicionar modos de dificuldade para a IA.
-- Implementar um placar para exibir resultados cumulativos.
-- Suporte para multiplayer local.
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou correções.
+![Tabuleiro inicial](tictactoe.png)
 
 ## Licença
 
