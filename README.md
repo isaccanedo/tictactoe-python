@@ -57,8 +57,3 @@ O projeto é dividido nas seguintes funções principais:
 ### Interface inicial
 
 ![Tabuleiro inicial](tictactoe.png)
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
