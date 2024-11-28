@@ -54,6 +54,6 @@ O projeto é dividido nas seguintes funções principais:
 
 ## Capturas de tela
 
-### Interface inicial
+### Interface do Jogo
 
 ![Tabuleiro inicial](tictactoe.png)
